@@ -11,3 +11,13 @@ Hi，大家好！以后这个仓库用于基础研究部组会分享，主要用
 # 文件夹说明
 >paper 文件夹下保存大家选择出来的400篇论文，需要做paper reading的同学从该文件夹下选择论文即可~
 
+
+
+# **Paper selection**
+
+
+|  paperid | conference  | paper name  |  others  |  presenter  |    source links      |
+|---|---|---|---|---|---|
+|  1  | KDD19  |  A Hierarchical Career-Path-Aware Neural Network for Job Mobility Prediction| Authors: Qingxin Meng (Rutgers- the State University of New Jersey);Hengshu Zhu (Baidu);Keli Xiao (Stony Brook University);Le Zhang (School of Computer Science, University of Science and Technaology of China);Hui Xiong (Rutgers- the State University of New Jersey);|   |   |
+|   |   |   |   |   |   |
+|   |   |   |   |   |   |
